@@ -1,0 +1,310 @@
+.logbutton{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 7%;
+    position: absolute;
+}
+
+.passbutton{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 72%;
+    margin-top: 7%;
+    position: absolute;
+}
+
+.popupbutton{
+border-radius: 1px;
+padding: 2px 12px;
+}
+
+.advisee{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 7%;
+    position: absolute;
+    text-align: center;
+}
+
+.adde{
+    width:500px;
+    height: 38px;
+    margin-top: 1%;
+    margin-left: 33%;
+}
+
+.added{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 63%;
+    margin-top: 24%;
+    position: absolute;
+}
+
+.charges{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 31%;
+    margin-top: 7%;
+    position: absolute;
+}
+
+.inp{
+    width:500px;
+    height:60px;
+    margin-top: 10%;
+    margin-left: 33%;
+}
+
+
+.search{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 53%;
+    margin-top: 7%;
+    position: absolute;
+}
+
+.search-btn{
+    width:100px;
+    margin-top: 4%;
+    margin-left: 2%;
+    border-radius: 5%;
+}
+
+.search-bar{
+    margin-top: 2%;
+    margin-left: 36%;
+    padding: 2px 12px;
+    height: 40px;
+}
+
+.clear{
+    margin-top: 2%;
+    margin-left: 45%;
+    padding: 2px 12px;
+    height: 40px;
+}
+
+.assign{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 24%;
+    position: absolute;
+}
+
+.etype{
+    margin-top: 5%;
+    margin-left: 39%;
+    width:20%;
+    text-align: center;
+    border-radius: 15px;
+    border-style:solid;
+  }
+
+ .etypek{
+    margin-top: 1%;
+    margin-left: 30%;
+    width:40%;
+    text-align: center;
+    border-radius: 15px;
+    border-style:solid;
+  }
+
+/* label{
+    margin-top: 5%;
+    margin-left:%;
+} */
+
+.ss{
+    width:200px;
+    margin-top: 4%;
+    margin-left: 2%;
+    border-radius: 5%;
+}
+
+.apps{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 24%;
+    position: absolute;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    background: #073b4c;
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding: 2rem;
+    margin-left: 2rem;
+    margin-top: 3.5rem;
+    border-radius: 1.5rem;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative; 
+    display: inline-block;
+  }
+
+.dropdown-content {
+    display: block;
+    position: absolute;
+    right: 0;
+    background-color: #073b4c;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 0 0 1rem 1rem;
+    margin-top: 1.4rem;
+}
+
+.dropdown-content span {
+    color: #fff;
+    font-size: 1rem;
+    padding: 12px 16px;
+    display: block;
+    cursor: pointer;
+    text-align: center;
+    width: 12rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn1{
+    width: 10rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    padding: 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.grade{
+    width: 15rem;
+    height: 15rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #073b4c;
+    /* padding: 5rem; */
+    border: none;
+    border-radius: 0.5rem;
+    margin: auto 0rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 7%;
+    position: absolute;
+
+}
+
+.mainHead{ color: #157594; font-family: 'Open Sans Condensed', sans-serif; font-size: 70px; font-weight: 700; line-height: 70px; margin: 0 0 0; padding: 20px 30px; text-align: center; text-transform: uppercase;margin-top: 5%; }
+

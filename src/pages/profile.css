@@ -1,0 +1,29 @@
+.name{
+    width: 180px;
+    padding: 20px 10px;
+    font-size: 18px;
+    color:#48464a;
+    height: 50px;
+    border-radius: 10px;
+    background: white;
+    border: 1px solid #bcc2d2;
+    margin-top: 15px;
+    outline: none;
+}
+
+.name::placeholder{
+    color: #a4afc5;
+    font-size: 18px;
+}
+
+.name:focus{
+    border: 2px solid #073b4c;
+}
+
+.name.profile{
+    width: 300px;
+}
+
+.name.profile.address{
+    width: 620px;
+}
